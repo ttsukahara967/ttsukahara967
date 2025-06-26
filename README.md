@@ -1,4 +1,8 @@
-## 🔧 Skill Set
+## 🧑‍💻 About Me
+I have mainly worked as a backend engineer throughout my career.  
+Recently, I’ve developed an interest in mobile app development and am actively learning Flutter and React Native.
+
+## 🔧 Skill Set & Experience
 
 - **PHP**: Over 10 years
 - **Python**: Over 2 years
@@ -9,9 +13,6 @@
 - **Linux / Amazon Linux**: Over 10 years
 - **AWS**: Used in major projects
 
-## About Me
-
-I have extensive experience as a backend engineer.  
-Recently, I have also developed an interest in mobile app development, especially using Flutter and React Native, and I am actively learning these technologies.
-
-My hobbies include playing the piano and guitar, as well as riding motorcycles.
+## 🎵 Hobbies
+- Playing the piano and guitar
+- Riding motorcycles
