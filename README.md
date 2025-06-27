@@ -3,8 +3,8 @@
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/ttsukahara967/campsite_app_rn/blob/main/img/screenshot/s1.png" alt="App Screenshot 1" width="300"/>
-  <img src="https://github.com/ttsukahara967/campsite_app_rn/blob/main/img/screenshot/s2.png" alt="App Screenshot 2" width="300"/>
+  <img src="https://github.com/ttsukahara967/campsite_app/raw/main/img/screenshot/s1.png" alt="App Screenshot 1" width="300"/>
+  <img src="https://github.com/ttsukahara967/campsite_app/raw/main/img/screenshot/s2.png" alt="App Screenshot 2" width="300"/>
 </p>
 
 ---
@@ -16,6 +16,7 @@ The backend is built with Go and MySQL, and I am also working with Flutter.**
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?logo=openstreetmap&logoColor=white" alt="OpenStreetMap"/>
 </p>
 
 ---
