@@ -12,9 +12,8 @@
 **I am currently developing a campsite information app.  
 The backend is built with Go and MySQL, and I am also working with Flutter.**
 
-You can find the backend source code here:  
-[github.com/ttsukahara967/campsite_app](https://github.com/ttsukahara967/campsite_app)
-
+For more details, please refer to this repository:
+https://github.com/ttsukahara967/campsite_app
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/>
