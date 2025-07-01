@@ -1,7 +1,9 @@
 # Campsite Information App 🏕️
 
 ## Screenshots
-
+<p align="center">
+<img src="https://github.com/ttsukahara967/campsite_app/raw/main/img/screenshot/top.png" alt="App Screenshot top" width="300"/>
+</p>
 <p align="center">
   <img src="https://github.com/ttsukahara967/campsite_app/raw/main/img/screenshot/s1.png" alt="App Screenshot 1" width="300"/>
   <img src="https://github.com/ttsukahara967/campsite_app/raw/main/img/screenshot/s2.png" alt="App Screenshot 2" width="300"/>
