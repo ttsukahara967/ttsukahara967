@@ -1,3 +1,5 @@
+> Note: this repository is used for PoC (proof of concept) purposes.
+
 ## Profile
 
 I have worked as a backend engineer throughout my career.  
