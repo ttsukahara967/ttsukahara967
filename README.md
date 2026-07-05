@@ -1,8 +1,7 @@
 ## Profile
 
-I have mainly worked as a backend engineer throughout my career.  
-Recently, I’ve developed an interest in mobile app development and am actively learning Flutter and React Native.  
-I've also recently become interested in Claude Code and have been testing it out in various ways.
+I have worked as a backend engineer throughout my career.  
+Recently, I've also become interested in Claude Code and have been trying it out in various ways.
 
 ### 🔧 Skill Set & Experience
 
