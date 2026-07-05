@@ -19,7 +19,3 @@ Recently, I've also become interested in Claude Code and have been trying it out
 ### 🎵 Hobbies
 - Playing the piano and guitar
 - Riding motorcycles
-
----
-
-[GitHub Profile](https://github.com/ttsukahara967)
