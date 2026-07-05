@@ -1,4 +1,4 @@
-> Note: this repository is used for PoC (proof of concept) purposes.
+> Note: repositories under this GitHub account are used for PoC (proof of concept) purposes.
 
 ## Profile
 
