@@ -22,6 +22,4 @@ Recently, I've also become interested in Claude Code and have been trying it out
 
 ---
 
-Feel free to contact me if you have any project inquiries or collaboration opportunities!
-
 [GitHub Profile](https://github.com/ttsukahara967)
