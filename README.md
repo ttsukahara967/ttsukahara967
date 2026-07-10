@@ -1,5 +1,7 @@
 > Note: repositories under this GitHub account are used for PoC (proof of concept) purposes.
 
+📝 note: https://note.com/ttsukahara
+
 ## Profile
 
 I have worked as a backend engineer throughout my career.  
