@@ -11,14 +11,14 @@ Recently, I've also become interested in Claude Code and have been trying it out
 
 ### 🔧 Skill Set & Experience
 
-- **PHP**: Over 10 years
-- **Python**: Over 2 years
-- **Go**: Project experience
-- **C**: Over 7 years
-- **MySQL / Aurora**: Over 10 years
-- **PostgreSQL**: Over 3 years
-- **Linux / Amazon Linux**: Over 10 years
-- **AWS**: Used in major projects
+- **PHP**: Backend/API development
+- **Python**: Scripting and automation
+- **Go**: Backend service development
+- **C**: Systems-level programming
+- **MySQL / Aurora**: Production database design and operations
+- **PostgreSQL**: Production database design and operations
+- **Linux / Amazon Linux**: Server operations and infrastructure
+- **AWS**: Infrastructure design and operations
 
 ### 🎵 Hobbies
 - Playing the piano and guitar
