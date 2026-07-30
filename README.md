@@ -15,8 +15,7 @@ Recently, I've also become interested in Claude Code and have been trying it out
 - **Python**: Scripting and automation
 - **Go**: Backend service development
 - **C**: Systems-level programming
-- **MySQL / Aurora**: Production database design and operations
-- **PostgreSQL**: Production database design and operations
+- **Database**: Experience with MySQL / Aurora and PostgreSQL
 - **Linux / Amazon Linux**: Server operations and infrastructure
 
 ### 🎵 Hobbies
