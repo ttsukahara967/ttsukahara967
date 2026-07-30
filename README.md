@@ -18,7 +18,6 @@ Recently, I've also become interested in Claude Code and have been trying it out
 - **MySQL / Aurora**: Production database design and operations
 - **PostgreSQL**: Production database design and operations
 - **Linux / Amazon Linux**: Server operations and infrastructure
-- **AWS**: Infrastructure design and operations
 
 ### 🎵 Hobbies
 - Playing the piano and guitar
