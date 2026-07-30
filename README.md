@@ -16,7 +16,7 @@ Recently, I've also become interested in Claude Code and have been trying it out
 - **Go**: Backend service development
 - **C**: Systems-level programming
 - **Database**: Experience with MySQL / Aurora and PostgreSQL
-- **Linux / Amazon Linux**: Server operations and infrastructure
+- **Linux / Amazon Linux**: Server operations and maintenance
 
 ### 🎵 Hobbies
 - Playing the piano and guitar
