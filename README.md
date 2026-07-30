@@ -9,7 +9,7 @@
 I have worked as a backend engineer throughout my career.  
 Recently, I've also become interested in Claude Code and have been trying it out in various ways.
 
-### 🔧 Skill Set & Experience
+### 🔧 Skills
 
 - **PHP**: Backend/API development
 - **Python**: Scripting and automation
