@@ -18,6 +18,11 @@ Recently, I've also become interested in Claude Code and have been trying it out
 - **Database**: Experience with MySQL / Aurora and PostgreSQL
 - **Linux / Amazon Linux**: Server operations and maintenance
 
+### 🤖 AI Learning
+- **PyTorch**: Deep learning fundamentals
+- **CNN**: Image classification models
+- **RAG**: Building retrieval-augmented chatbots
+
 ### 🎵 Hobbies
 - Playing the piano and guitar
 - Riding motorcycles
