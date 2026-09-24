@@ -6,6 +6,8 @@
 
 📝 note: https://note.com/ttsukahara
 
+🍳 hobby site: https://develop.ouchirecipes.com/
+
 ## Profile
 
 I have worked as a backend engineer throughout my career.  
